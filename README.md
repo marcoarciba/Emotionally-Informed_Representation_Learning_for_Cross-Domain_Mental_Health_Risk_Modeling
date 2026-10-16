@@ -12,6 +12,32 @@ Traditional machine learning systems often focus on observable patterns while ig
 
 This research investigates how emotionally informed representations can improve the understanding, transferability, and interpretability of complex human phenomena.
 
+## Research Framework
+
+```text
+Human Data
+      │
+      ▼
+Multi-Modal Data Processing
+      │
+      ▼
+Emotion-Aware Representation Learning
+      │
+      ▼
+Latent Space Construction
+      │
+      ▼
+Geometric Analysis
+      │
+      ▼
+Topological Analysis
+      │
+      ▼
+Transfer Learning & Domain Adaptation
+      │
+      ▼
+Human-Centered Understanding
+```
 ---
 
 ## Research Objectives
