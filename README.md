@@ -1,5 +1,7 @@
 # Emotionally Informed Representation Learning
 
+./assets/research_framework.png
+
 Research exploring emotionally informed deep representations for the transferable analysis of complex human phenomena through geometric, topological, and latent-space approaches.
 
 ---
